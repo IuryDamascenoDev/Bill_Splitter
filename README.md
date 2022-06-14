@@ -1,6 +1,6 @@
 # Jetbrains Bill Splitter
 
-Projeto básico para estudo de dicionários.
+Basic python project for dictionaries study.
 
-Principais conhecimentos utilizados:  
-Importação de módulos e manipulação de dicionários e listas. Foram aplicadas também boas práticas de programação em python tentando seguir o padrão pep8.
+Knowledge applied:  
+Algorithm creation with modules import and dictionary/lists manipulation.
